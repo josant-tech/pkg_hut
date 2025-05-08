@@ -1,0 +1,7 @@
+streamlit                 
+st-gsheets-connection     
+pandas                    
+DateTime    
+openpyxl
+scipy
+streamlit_option_menu              
